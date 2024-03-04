@@ -134,5 +134,20 @@ color: gold;
     background-color: #4CAF50;
     padding: 10px;
     margin: 20px;
-    color: white;
+    color: rgba(255, 255, 255, 0.411);
+}
+.message-box {
+    border: 2px solid;
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 20px;
+    color: black; 
+}
+
+.success {
+    border-color: green;
+}
+
+.error {
+    border-color: red;
 }
